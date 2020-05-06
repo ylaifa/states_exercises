@@ -1,0 +1,26 @@
+.wrap-row {
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  .square {
+    height: 200px;
+    width: 200px;
+    margin: 0.5rem;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .green {
+    background-color: green;
+  }
